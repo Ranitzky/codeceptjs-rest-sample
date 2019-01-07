@@ -1,0 +1,19 @@
+{
+  "name": "codeceptjs-rest-sample",
+  "version": "1.0.0",
+  "description": "CodeceptJS Sample using REST helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/codeceptjs run --steps"
+  },
+  "author": "Rico Wilcke",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^2.0.2",
+    "eslint": "^5.12.0",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}

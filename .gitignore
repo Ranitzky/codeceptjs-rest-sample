@@ -1,0 +1,19 @@
+# Visual Studio Code editor settings
+.vscode/
+
+# test results
+output
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
