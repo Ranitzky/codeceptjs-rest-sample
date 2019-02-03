@@ -1,0 +1,18 @@
+{
+    "api_version": 1,
+    "hotel": {
+        "item_id": 5002,
+        "partner_reference": "5002"
+    },
+    "start_date": "2019-01-01",
+    "end_date": "2019-01-02",
+    "party": [
+        {
+            "adults": 2,
+            "children": [1]
+        }
+    ],
+    "lang": "en_US",
+    "currency": "USD",
+    "user_country": "US"
+}
