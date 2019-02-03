@@ -1,7 +1,7 @@
 {
   "name": "codeceptjs-rest-sample",
   "version": "1.0.0",
-  "description": "CodeceptJS Sample using REST helper",
+  "description": "CodeceptJS Sample using Axios and Chai",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/codeceptjs run --steps"
